@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7022c1f2-c833-419b-b481-c1b851ce3653"
+      }
+    },
+    "owner": "vlosada"
   }
 }
